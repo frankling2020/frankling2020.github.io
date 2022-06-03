@@ -1,0 +1,10 @@
+document.writeln("						<ul class=\'links\'>");
+document.writeln("							<li><a href=\'index.html\'>Self Introduction</a></li>");
+document.writeln("							<li><a href=\'generic.html\'>Generic Page</a></li>");
+document.writeln("							<li><a href=\'elements.html\'>Elements Page</a></li>");
+document.writeln("						</ul>");
+document.writeln("                      <ul class=\"icons\">");
+document.writeln("							<li><a href=\'https://gitee.com/frankling2022\' class=\'icon brands fa-git\'><span class=\'label\'>Gitee</span></a></li>");
+document.writeln("							<li><a href=\'https://hub.docker.com/u/frankling2021\' class=\'icon brands fa-docker\'><span class=\'label\'>Docker</span></a></li>");
+document.writeln("							<li><a href=\'https://github.com/frankling2020\' class=\'icon brands fa-github\'><span class=\'label\'>GitHub</span></a></li>");
+document.writeln("						</ul>");
