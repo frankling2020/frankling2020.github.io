@@ -73,9 +73,13 @@
             <div style="font-size:1.6em;">Haoyang Ling</div> <div style="font-size:1em;"><a target="_blank" rel="noopener" href="https://www.si.umich.edu/">MSI@UMICH</a> <a href="/">|</a> <a target="_blank" rel="noopener" href="https://www.ji.sjtu.edu.cn/">B.S.@SJTU</a></div>
             
                 <span id="typed-text" class="markdown-body"></span>
-                <script type="text/javascript" src="theme.js.min"></script>
                 <script src="/js/typed/typed.js"></script>
                 <script>
+                    window.addEventListener('popstate', function (event) {
+                        console.log(event.persisted);
+                        if (event.persisted) location.reload();
+                    });
+
                     var typed = new Typed("#typed-text", {
                         strings: [
                             
