@@ -11,7 +11,6 @@ authors:
   - Lingyao Li
   - admin
   - Yongfeng Zhang
-  - Libby Hemphill
 author_notes:
   - Equal contribution
   - Equal contribution
