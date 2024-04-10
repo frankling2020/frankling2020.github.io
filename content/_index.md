@@ -159,36 +159,36 @@ sections:
       columns: '2'
       view: citation
   - block: accomplishments
-      content:
-        # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-        title: 'Accomplish&shy;ments'
-        subtitle:
-        # Date format: https://wowchemy.com/docs/customization/#date-format
-        date_format: Jan 2006
-        # Accomplishments.
-        #   Add/remove as many `item` blocks below as you like.
-        #   `title`, `organization`, and `date_start` are the required parameters.
-        #   Leave other parameters empty if not required.
-        #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-        items:
-          - certificate_url: https://www.coursera.org/account/accomplishments/certificate/3RMKGFQJWU4W
-            date_end: '2022-01-08'
-            date_start: '2022-01-01'
-            description: ''
-            organization: Coursera
-            organization_url: https://www.coursera.org
-            title: Advanced Computer Vision with TensorFlow
-            url: 'https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow'
-          - certificate_url: https://www.coursera.org/account/accomplishments/certificate/57RSFK4Y3HSM
-            date_end: '2021-08-18'
-            date_start: '2021-08-11'
-            description: ''
-            organization: Coursera
-            organization_url: https://www.coursera.org
-            title: Neural Networks and Deep Learning
-            url: 'https://www.coursera.org/learn/neural-networks-deep-learning'
-      design:
-        columns: '2'
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://wowchemy.com/docs/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/3RMKGFQJWU4W
+          date_end: '2022-01-08'
+          date_start: '2022-01-01'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Advanced Computer Vision with TensorFlow
+          url: 'https://www.coursera.org/learn/advanced-computer-vision-with-tensorflow'
+        - certificate_url: https://www.coursera.org/account/accomplishments/certificate/57RSFK4Y3HSM
+          date_end: '2021-08-18'
+          date_start: '2021-08-11'
+          description: ''
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Neural Networks and Deep Learning
+          url: 'https://www.coursera.org/learn/neural-networks-deep-learning'
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
