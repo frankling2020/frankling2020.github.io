@@ -1,6 +1,6 @@
 ---
 title: React Simple Summarizer based on ChatGPT
-date: 2023-04-06T00:00:00.000Z
+date: 2024-03-06T00:00:00.000Z
 summary: >-
   ## Simple Summarizer
 
@@ -9,7 +9,7 @@ summary: >-
   **Tools**: *Docker, OpenAI, Presidio, ReactJS, Flask (gunicorn + gevent), Celery (Redis + MongoDB), Nginx, JMeter*
 tags:
   - demo
-external_link: https://github.com/frankling2020/react-chatgpt
+external_link: ""
 links:
   - url: https://frankling2020.github.io/react-chatgpt/
     icon_pack: fas
