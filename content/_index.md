@@ -190,6 +190,8 @@ sections:
           tag: Data Science
         - name: Big Data
           tag: Big Data
+        - name: Statistics
+          tag: Statistics
         - name: Other
           tag: Demo
     design:

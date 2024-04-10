@@ -9,12 +9,15 @@ tags:
   - Data Science
   - Statistics
 external_link: ""
-url_pdf: 4130_proj.pdf
 links:
   - url: pre.pdf
     icon_pack: fas
     icon: link
     name: PPT
+  - url: 4130_proj.pdf
+    icon_pack: fas
+    icon: link
+    name: PDF
 authors:
   - admin
   - Ruiqi Xu
