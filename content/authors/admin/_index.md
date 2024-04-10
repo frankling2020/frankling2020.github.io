@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: My interests include artificial intelligence, information
   retrieval, and programmable matter.
 interests:
-  - Artificial Intelligence
-  - Information Retrieval
+  - Artificial Intelligence and Information Retrieval
+  - Machine Learning and Statistics
   - Big Data Analytics
 social:
   - display:
