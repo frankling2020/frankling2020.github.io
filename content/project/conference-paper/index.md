@@ -40,7 +40,7 @@ url_source: ""
 url_video: ""
 title: Machine-Generated Text Detection for ChatGPT
 doi: ""
-featured: true
+featured: false
 tags:
   - Data Science
   - Deep Learning
