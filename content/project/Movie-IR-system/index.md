@@ -12,11 +12,7 @@ tags:
   - Data Science
   - Deep Learning
 external_link: ""
-links:
-  - url: https://github.com/frankling2020/MovieIRSystem
-    icon_pack: fas
-    icon: link
-    name: link
+url_code: "https://github.com/frankling2020/MovieIRSystem"
 image:
   filename: featured.png
   focal_point: Smart

@@ -13,13 +13,10 @@ featured: false
 tags:
   - Data Science
   - Deep Learning
+url_code: "https://github.com/frankling2020/ADA-GCL"
 links:
   - url: https://github.com/frankling2020/Self-learn-Repo/tree/main/GNN_PRP
     name: Weekly Reports
-    icon_pack: fas
-    icon: link
-  - url: https://github.com/frankling2020/ADA-GCL
-    name: Code
     icon_pack: fas
     icon: link
 image:

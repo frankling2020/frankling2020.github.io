@@ -14,7 +14,7 @@ links:
   - url: https://frankling2020.github.io/react-chatgpt/
     icon_pack: fas
     icon: link
-    name: deployment
+    name: Deployment
 image:
   caption: ""
   focal_point: Smart

@@ -13,11 +13,7 @@ featured: false
 tags:
   - Big Data
   - Data Science
-links:
-  - url: https://github.com/frankling2020/UMSI-Projects/tree/main/si671prj
-    name: Code
-    icon_pack: fas
-    icon: link
+url_code: "https://github.com/frankling2020/UMSI-Projects/tree/main/si671prj"
 image:
   filename: featured.jpg
   focal_point: Smart

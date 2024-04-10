@@ -8,11 +8,7 @@ tags:
   - Data Science
   - Deep Learning
 external_link: ""
-links:
-  - url: https://github.com/yifei-zhhhh/SI699-HMS
-    icon_pack: fas
-    icon: link
-    name: code
+url_code: "https://github.com/yifei-zhhhh/SI699-HMS"
 authors:
   - admin
   - Sijun Tao

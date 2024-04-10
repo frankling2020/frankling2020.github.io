@@ -15,11 +15,7 @@ url_slides: ""
 title: Music Recommendation with Spark
 tags:
   - Big Data
-links:
-  - icon: link
-    icon_pack: fas
-    name: link
-    url: https://github.com/frankling2020/Methods_and_Tools_for_Big_Data
+url_code: "https://github.com/frankling2020/Methods_and_Tools_for_Big_Data"
 image:
   caption: ""
   focal_point: Smart
